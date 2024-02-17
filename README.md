@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @gvbrgs
+- 👀 I’m interested in IT area
+- 🌱 I’m currently learning HTML, CSS AND JS
+- 💞️ I’m looking to collaborate on GitHub
+- 📫 How to reach me messages
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm very young
